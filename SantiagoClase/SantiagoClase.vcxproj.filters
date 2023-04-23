@@ -21,9 +21,15 @@
     <ClCompile Include="FuncionesListas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FuncionesArboles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FuncionesListas.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FuncionesArboles.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
